@@ -15,13 +15,13 @@ Nick has delegated story judgement: agents decide and record here rather than as
 
 ## Unverified facts (don't design puzzles that depend on these yet)
 
-- A01 Usborne book: page contents and numbers, map layout.
-- A03 Marble run: piece list, viable two-tower layout, reliable routing.
+- A01 Usborne book: identified (see `02-inventory.md`); still need a photo of the contents page and the map labels.
+- A03 Marble run: brand and type identified; piece count, two-tower layout and reliable routing still need a test build.
 - A05 Book: cavity size after hollowing; how to seal it convincingly.
 - A06 Crystal: glass or not; LED puck fits under it.
-- A07 Detective kit: actual contents and functions (UV, invisible ink, fingerprint process).
-- A08 Banknotes: full catalogue (country, denomination, imagery, fit in sleeves).
-- A09 Chess pieces: count and types per colour; can a symbol go under each base.
+- A07 Detective kit: contents confirmed; check the booklet for the exact activities.
+- A08 Banknotes (Nick is photographing them): full catalogue (country, denomination, imagery, fit in sleeves).
+- A09 Chess pieces: full 32-piece set confirmed; still need to know whether a symbol can hide under each base.
 - A10 Skull egg: how it opens or what solving releases.
 - B05 Instrument: confirm it is a hydrometer.
 - B07 Cable lock: what it can secure.

@@ -7,7 +7,7 @@ Mapping from the adopted story. Arrival days are approximate until Stage 3.
 | Object | Story identity | Arrives | Hidden significance |
 |---|---|---|---|
 | A02 Basket | Supply drop | Day 1 | Christmas Eve trails start there |
-| A01 World book | Professor's atlas; route marked on map | Day 2 | Day 21: route ends at home |
+| A01 *Stories from Around the World* | The Professor's atlas. The young Keepers chose their 1976 to 1986 route by its stories, and each map label is a stop. | Day 2 | Day 21: route ends at home |
 | C04 Field journals | Agent expedition records | Day 1 | Become Keepers' journals |
 | A07 Detective kit | The Order Field Kit (shared) | Days 2 to 3 | Fingerprint evidence, Days 6 and 12 |
 | B10 Red lenses | Thistlewick's lenses | Day 4 | Rowan's hidden notes all month |
@@ -16,7 +16,7 @@ Mapping from the adopted story. Arrival days are approximate until Stage 3.
 | Torn photograph (printed) | Half each, from the study evidence | Days 5 and 9 | Day 12: identifies Rowan |
 | A08 Banknotes | Rowan's half of the Atlas of Notes | From Day 7 | Day 21: last note is British |
 | A11 Pestle and mortar | Professor's, in photos from Day 1 | About Day 10 | Mark underneath used in Chapter IV |
-| A09 Chess pieces | The Court Figures | Chapter II | Placement puzzle (III); symbols under bases (IV) |
+| A09 Chess pieces | The Court Figures: carved guardians from the chamber where the Stone was once kept, brought home from the China stop. Agent Blue keeps the cream court, Agent Orange the red. | Chapter II, a few at a time | Placement puzzle on a printed 8×8 "chamber floor" (III); symbols under bases (IV) |
 | A03 Marble run | Cogwell's Meridian Engine, dismantled | Batches Days 7 to 19 | Day 20: complete, the Keepers' test |
 | B11 Wooden jigsaws | Rowan's map in pieces | From Day 13 | Day 21: it is their house |
 | B06 Long key | The Keeper's Key | Day 17 | Christmas Eve: silhouette matches the jigsaw |
@@ -32,6 +32,13 @@ Mapping from the adopted story. Arrival days are approximate until Stage 3.
 - Both marble routes meet at one final cup ("Two must travel"). The first full run triggers a Professor call.
 - Each tower route ends in numbered cups giving that child a final digit. **Backup:** the same digits sit under scratch-off on each blueprint card, unlocked if "the Engine is stubborn". Never make a vital clue depend only on marble routing.
 - Build and test the full run before December.
+
+## The story route (A01 + A08)
+
+- **Rule:** an expedition stop must have (a) a story in the book from that country or region and (b) a banknote from it. The route is the overlap between the two.
+- On each stop day, the Professor's letter names that country's story: "Read the story of X tonight; Rowan always said it was the clue." This gives an optional bedtime read-aloud with no screens. A small detail from each story (an object, an animal, a number) can feed that day's puzzle.
+- Confirmed regions with stories, from published contents: Africa (The Baobab Tree), Russia, China, Middle East or Persia, America. Lock in the route once the contents page and banknotes are photographed.
+- The China stop is where the Court Figures come from.
 
 ## Atlas of Notes (A08)
 
